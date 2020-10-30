@@ -3,7 +3,7 @@ Full-stack Software Developer with experience in Javascript, Vue.js framework, H
 ![enter image description here](https://github.com/JacobCrombie/JacobCrombie/blob/main/assets/Orange%20Black%20Java%20Logo%20Minimalist%20Programmer%20Resume.jpg?raw=true)
 
 <div>
-<img src="">
+<img src="https://github.com/JacobCrombie/JacobCrombie/blob/main/assets/language%20icons.png?raw=true">
 </div>
 <div>
   <a href="/" align="center">
